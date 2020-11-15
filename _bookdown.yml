@@ -1,5 +1,5 @@
 book_filename: "trc-ptf"
-output_dir: _book
+output_dir: _book 
 delete_merged_file: true
 edit: https://github.com/dhammastupa/bookdown/edit/master/%s
 view: https://github.com/dhammastupa/bookdown/blob/master/%s
